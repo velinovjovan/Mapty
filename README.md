@@ -4,12 +4,6 @@ An interactive workout tracking app built with **vanilla JavaScript** and the **
 
 ---
 
-## 🌐 Live Demo
-
-Explore the website [here](https://mapty-velinov.vercel.app)
-
----
-
 ## 🚴 Features
 
 - **Geolocation API** to get the user’s current position
